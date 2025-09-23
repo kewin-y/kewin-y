@@ -1,1 +1,3 @@
-~o
+₍^. .^₎⟆
+
+C++, OpenGL, Nix, Neovim, etc.
